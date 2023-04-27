@@ -1,6 +1,6 @@
 ## Hey all :) My name is Zara👋
  
-- 🌱 I'm a Mathematician & Data Scientist.
+- 🌱 I'm a **Mathematician** & **Data Scientist**.
 - 🌞 Experienced in Medical & Big data.
 
 - 📌 I've worked on several data science projects, including:
@@ -9,6 +9,7 @@
   - Analyzing and developing custom formulas and algorithms for data analysis and modelling.
   - ect.
 
+\n
 - ⚡ Fun fact: My family is spread out around the world, and we make a point to come together for a reunion at least once a year somewhere around the world.
 
 
