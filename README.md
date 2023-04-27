@@ -12,6 +12,10 @@
 
 ⚡&nbsp; A fun fact - my brother lives abroad, and we make it a point to have an annual family reunion in a different location each time.
 <br>
+<br>
+
 💕 &nbsp; I'm passionate about using data to drive innovation and solve real-world problems. <br>
 🍓 &nbsp; If you're interested in connecting about a data scientist position, I'd love to hear from you! <br>
 📫 &nbsp; How to reach me: https://www.linkedin.com/in/zaruhi-zara-papyan
+<br>
+<br>
