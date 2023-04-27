@@ -1,5 +1,5 @@
 ## Hey all :) My name is Zara👋
- This text has a <span style="background-color: yellow;">yellow</span> background color.
+This text is in <span style="color:red">red</span>.
 
 - 🌱 I'm a **Mathematician** & **Data Scientist**.
 - 🌞 Experienced in Medical & Big data.
