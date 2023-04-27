@@ -4,7 +4,7 @@
 - 🌱 I'm a **Mathematician** & **Data Scientist**.
 - 🌞 Experienced in Medical & Big data.
 
-- 🍎 I've worked on several data science projects, including:
+- 🍎 I've worked on several data science projects, including: \n
   &#x1F538; Instance segmentation with Mask R-CNN.
   &#x1F538; Analysing CV details using 'all-MiniLM-L6-v1' and 'all-MiniLM-L12-v2'.
   &#x1F538; Analyzing and developing custom formulas and algorithms for data analysis and modelling.
