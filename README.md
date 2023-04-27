@@ -1,4 +1,6 @@
 ## Hey all :) My name is Zara👋
+This text is in <font color="red">red</font>.
+
 <div style="background-color:#FFDAB9">
 
 - 🌱 I'm a **Mathematician** & **Data Scientist**.
