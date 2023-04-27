@@ -1,7 +1,7 @@
 ### Hey all :) My name is Zara👋
 
 
-🌱 I'm a **_Mathematician_** & **_Data Scientist_**.<br>
+🌱 I'm a #**_Mathematician_** & **_Data Scientist_**.<br>
 🌞 Experienced in Medical & Big data.
 
 &#x1F34E; I've worked on several data science projects, including: <br>
