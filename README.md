@@ -1,4 +1,4 @@
-## Hey all :) My name is Zara👋
+### Hey all :) My name is Zara👋
 
 
 - 🌱 I'm a **_Mathematician_** & **_Data Scientist_**.
@@ -11,7 +11,7 @@
   - ect.<br><br>
 
 
-- ⚡ Fun fact: My family is spread out around the world, and we make a point to come together for a reunion <br> at least once a year somewhere around the world.
+- ⚡ Fun fact: My family is spread out around the world, and we make a point to come together for a reunion at least once a year somewhere around the world.
 
 
 - 💕 I'm passionate about using data to drive innovation and solve real-world problems.
