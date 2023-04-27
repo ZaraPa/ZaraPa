@@ -4,10 +4,10 @@
 🌱 I'm a **_Mathematician_** & **_Data Scientist_**.<br>
 🌞 Experienced in Medical & Big data.
 
-&#x1F34E; I've worked on several data science projects, including: <br>
-  - Instance segmentation with Mask R-CNN. <br> 
-  - Analysing CV details using '_all-MiniLM-L6-v1_' and '_all-MiniLM-L12-v2_'. <br>
-  - Analyzing and developing custom formulas and algorithms for data analysis and modelling. <br>
+&#x1F34E; I've worked on several data science projects, including:
+  - Instance segmentation with Mask R-CNN.
+  - Analysing CV details using '_all-MiniLM-L6-v1_' and '_all-MiniLM-L12-v2_'.
+  - Analyzing and developing custom formulas and algorithms for data analysis and modelling. 
   - ect.<br><br>
 
 
