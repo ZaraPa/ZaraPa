@@ -15,7 +15,7 @@
 <br>
 
 ❤️ &nbsp; I'm passionate about using data to drive innovation and solve real-world problems. <br>
-🍓 &nbsp; If you're interested in connecting about a data scientist position, I'd love to hear from you!
+👀 &nbsp; If you're interested in connecting about a data scientist position, I'd love to hear from you!
 <br>
 <br>
 📫 &nbsp; How to reach me: https://www.linkedin.com/in/zaruhi-zara-papyan
