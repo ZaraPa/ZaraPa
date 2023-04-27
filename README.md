@@ -10,7 +10,6 @@
   - ect.
 
 
-
 - ⚡ Fun fact: My family is spread out around the world, and we make a point to come together for a reunion at least once a year somewhere around the world.
 
 
