@@ -5,9 +5,9 @@
 
 &#x1F34E; I've worked on several data science projects, including: <br>
   	&#10209; Instance segmentation with Mask R-CNN. <br>
-  &#x1F538; Analysing CV details using '_all-MiniLM-L6-v1_' and '_all-MiniLM-L12-v2_'. <br>
-  &#x1F538; Analyzing and developing custom formulas and algorithms for data analysis and modelling.  <br>
-  &#x1F538; ect.<br><br>
+  &#10209; Analysing CV details using '_all-MiniLM-L6-v1_' and '_all-MiniLM-L12-v2_'. <br>
+  &#10209; Analyzing and developing custom formulas and algorithms for data analysis and modelling.  <br>
+  &#10209; ect.<br><br>
 
 
 ⚡ A fun fact about me is that my brother lives abroad, and we make it a point to have an annual family reunion in a different location each time.
