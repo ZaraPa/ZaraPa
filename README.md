@@ -1,4 +1,4 @@
-# Hey all ₍ᵔ•ᴗ•ᵔ₎ My name is Zara👋
+# Hey all! My name is Zara👋
 
 🌱 &nbsp; I'm a **_Mathematician_** & **_Data Scientist_**.<br>
 🌞 &nbsp; Experienced in Medical & Big data. <br>
