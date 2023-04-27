@@ -4,14 +4,6 @@
 🌞  Experienced in Medical & Big data. <br>
 
 &#x1F34E; I've worked on several data science projects, including: <br>
-  <style>
-  .tab {
-    text-indent: 50px;
-  }
-</style>
-
-<p class="tab">This text has a tab space.</p>
-
   &#10209; Instance segmentation with Mask R-CNN. <br>
   &#10209; Analysing CV details using '_all-MiniLM-L6-v1_' and '_all-MiniLM-L12-v2_'. <br>
   &#10209; Analyzing and developing custom formulas and algorithms for data analysis and modelling.  <br>
