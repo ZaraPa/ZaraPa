@@ -5,7 +5,7 @@
 - 🌞 Experienced in Medical & Big data.
 
 - 🍎 I've worked on several data science projects, including: <br>
-  <a> &#x1F538; Instance segmentation with Mask R-CNN. <br>
+  <a> &#x1F538; Instance segmentation with Mask R-CNN. <br> </a>
   <a> &#x1F538; Analysing CV details using 'all-MiniLM-L6-v1' and 'all-MiniLM-L12-v2'. <br>
   &#x1F538; Analyzing and developing custom formulas and algorithms for data analysis and modelling. <br>
   &#x1F538; ect.<br><br>
