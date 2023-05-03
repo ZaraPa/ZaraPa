@@ -5,7 +5,7 @@
 
 &#x1F34E; &nbsp; I've worked on several data science projects, including: <br>
  &nbsp; &nbsp; &nbsp; - &nbsp; Instance segmentation with Mask R-CNN. <br>
- &nbsp; &nbsp; &nbsp; - &nbsp; Analysing CV details using '_all-MiniLM-L6-v1_' and '_all-MiniLM-L12-v2_'. <br>
+ &nbsp; &nbsp; &nbsp; - &nbsp; Analysing resume details using '_all-MiniLM-L6-v1_' and '_all-MiniLM-L12-v2_'. <br>
  &nbsp; &nbsp; &nbsp; - &nbsp; Analyzing and developing custom formulas and algorithms for data analysis and modelling.  <br>
  &nbsp; &nbsp; &nbsp; - &nbsp; ect.
  <br><br> 
