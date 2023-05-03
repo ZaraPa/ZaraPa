@@ -7,8 +7,9 @@
  &nbsp; &nbsp; &nbsp; - &nbsp; Instance segmentation with Mask R-CNN. <br>
  &nbsp; &nbsp; &nbsp; - &nbsp; Analysing resume details using '_all-MiniLM-L6-v1_' and '_all-MiniLM-L12-v2_'. <br>
  &nbsp; &nbsp; &nbsp; - &nbsp; Analyzing and developing custom formulas and algorithms for data analysis and modelling.  <br>
- &nbsp; &nbsp; &nbsp; - &nbsp; Corrently building a project based on _Diffusion models_ - SOON.  <br>
  &nbsp; &nbsp; &nbsp; - &nbsp; ect.
+ 
+ &nbsp; &nbsp; &nbsp; - &nbsp; Corrently building a project based on _Diffusion models_ - SOON.  <br>
  <br><br> 
 
 🦫&nbsp; A fun fact - my brother lives abroad, and we make it a point to have an annual family reunion in a different location each time.
