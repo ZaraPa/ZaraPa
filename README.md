@@ -10,7 +10,7 @@
  &nbsp; &nbsp; &nbsp; - &nbsp; Utilizing transformer models to analyze time series data and make accurate predictions. <br>
  &nbsp; &nbsp; &nbsp; - &nbsp; ect.
 
- &nbsp; &nbsp; &nbsp; - &nbsp; Currently building a project based on Mistral model with RAG - SOON..  <br>
+ &nbsp; &nbsp; &nbsp; Currently building a project based on Mistral model with RAG - SOON..  <br>
 
  <br><br> 
 
